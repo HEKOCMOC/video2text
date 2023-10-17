@@ -2,8 +2,8 @@
 <hr>
 
 Planned functionality:
-- [ ] Download video 
-- [ ] Extracting an audio track from a video
+- [x] Download video 
+- [x] Extracting an audio track from a video
 - [ ] Recognizing sentences from audio
 
 <hr>
